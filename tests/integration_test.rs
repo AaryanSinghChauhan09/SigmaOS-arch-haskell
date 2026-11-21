@@ -1,4 +1,4 @@
-use arch_haskell::Component;
+use sigmaos_haskell::Component;
 
 #[test]
 fn test_component_new_aaa() {

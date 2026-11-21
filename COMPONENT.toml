@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-haskell"
+name = "SigmaOS-haskell"
 tier = 2
 stability = "scaffold"
 language = "rust"

@@ -1,4 +1,4 @@
-# SigmaOS-arch-haskell
+# SigmaOS-haskell
 
 GitHub description is a placeholder; component scope remains unclassified.
 

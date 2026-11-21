@@ -1,10 +1,10 @@
 [package]
-name = "arch-haskell"
+name = "sigmaos-haskell"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-haskell component - SigmaOS component"
+description = "SigmaOS SigmaOS-haskell component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-haskell"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-haskell"
 
 [dependencies]
 thiserror = "2"
